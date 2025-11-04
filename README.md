@@ -7,7 +7,7 @@ This project was inspired by Scrimba’s React course and designed to showcase h
 
 ---
 
-## 🚀 Project Linke
+## 🚀 Project Link
 
 🔗 **[Figma](https://www.figma.com/design/ZY9TcbjABs5ZVokr47uiSW/Digital-Business-Card--Copy-?node-id=0-1&t=YtppJdsx5uxtG8lX-1)**
 
