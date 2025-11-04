@@ -1,6 +1,6 @@
 # 💼 Digital Business Card
 
-![Preview](src\assets\image.png)
+![Preview](./src/assets/image.png)
 
 A clean and responsive **React-based digital business card** built as my **first React project**.  
 This project was inspired by Scrimba’s React course and designed to showcase how JSX, and component structure work together to build simple UI apps.
